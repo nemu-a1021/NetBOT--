@@ -7,6 +7,7 @@ NetBOTは、経済システム・カジノ機能などを備えた高機能なDi
 
 🔗 **公式サポートサーバー:** [サポートサーバーに参加](https://discord.gg/zSJkaTZQGQ)  
 🔗 **開発者GitHub** [GitHub](https://github.com/nemu-a1021)
+🔗 **BOTの導入** [導入](https://discord.com/oauth2/authorize?client_id=1324341296411967509&permissions=8&integration_type=0&scope=bot)
 
 ---
 
